@@ -1,3 +1,4 @@
+// Reference: https://en.wikipedia.org/wiki/Church_encoding
 package church
 
 trait Church {
