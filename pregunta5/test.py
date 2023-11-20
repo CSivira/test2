@@ -1,5 +1,5 @@
 import unittest
-from main import Type, TypeManager, mcm, is_command_valid
+from main import TypeManager, mcm, is_command_valid
 
 
 class TestMethods(unittest.TestCase):

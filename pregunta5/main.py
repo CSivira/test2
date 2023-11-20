@@ -1,5 +1,4 @@
 # Contantes
-from typing import Any
 
 COMMANDS = {'SALIR': [1, 0], 'DESCRIBIR': [2, 0], 'UNION': [3, 1], 'STRUCT': [3, 1], 'ATOMICO': [4, 0]}
 MODE = ['Sin Empaquetar', 'Empaquetando', 'Óptimo']
